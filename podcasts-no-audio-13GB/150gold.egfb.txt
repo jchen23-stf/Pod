@@ -1,8 +1,0 @@
-Excellent:   Accurately conveys all the most important attributes of the episode, which could include topical content, genre, and participants. It contains almost no redundant material which isn't needed when deciding whether to listen.
-
-Good:	     Conveys most of the most important attributes and gives the reader a reasonable sense of what the episode contains. Does not need to be fully coherent or well edited. It contains little redundant material which isn't needed when deciding whether to listen.
-
-Fair:	     Conveys some attributes of the content but gives the reader an imperfect or incomplete sense of what the episode contains. It may contain some redundant material which isn't needed when deciding whether to listen.
-
-Bad:	     Does not convey any of the most important content items of the episode or gives the reader an incorrect sense of what the episode contains. It may contain a lot of redundant information that isn't needed when deciding whether to listen to the episode. 
-
